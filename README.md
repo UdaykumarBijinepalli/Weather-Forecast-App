@@ -146,7 +146,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ by Md Sabbir Ahmad</sub><br>
-  <sub>Copyright © 2025 Weather Application</sub>
-</div> 
